@@ -7,7 +7,7 @@ Version: 1.35
 Author URI: https://www.webfactoryltd.com/
 Text Domain: map-block-gutenberg
 
-  Copyright 2018 - 2024  WebFactory Ltd  (email : support@webfactoryltd.com)
+  Copyright 2018 - 2025  WebFactory Ltd  (email : support@webfactoryltd.com)
 
   This program is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License, version 2, as

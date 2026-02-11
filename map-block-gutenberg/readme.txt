@@ -3,7 +3,7 @@ Contributors: WebFactory
 Tags: map block, google maps, map, gutenberg block, maps for gutenberg
 Requires at least: 4.9
 Requires PHP: 5.2
-Tested up to: 6.6
+Tested up to: 6.9
 Stable tag: 1.35
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
